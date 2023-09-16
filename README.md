@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viktoriiavan
-- 👀 I’m interested in Python, automation and responsive design
-- 🌱 I’m currently learning Python and JavaScript
+- 👀 I’m interested in automation, full stack development and responsive design
+- 🌱 I’m currently working in Python and JavaScript
 - 💞️ I’m looking to collaborate on all kind of projects!
 - 📫 How to reach me vanviktoriia@gmail.com
 
